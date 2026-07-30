@@ -670,7 +670,7 @@ html[data-theme="dark"] .theme-toggle__icon--moon {
 .cert-badge img {
   width: 72px;
   height: 72px;
-  border-radius: 50%;
+  border-radius: 8px;
   background: var(--color-surface);
   box-shadow: var(--color-card-shadow);
 }
